@@ -19,7 +19,7 @@ and some apk packages.
 
 ## Supported versions
 
-- Python2.7: [odoku/geopython:2.7](https://github.com/odoku/docker-geopython/tree/master/python2.7)
-- Python3.4: [odoku/geopython:3.4](https://github.com/odoku/docker-geopython/tree/master/python3.4)
-- Python3.5: [odoku/geopython:3.5](https://github.com/odoku/docker-geopython/tree/master/python3.5)
-- Python3.6: [odoku/geopython:3.6](https://github.com/odoku/docker-geopython/tree/master/python3.6)
+- Python2.7: [bungalowbill/docker-geopython:Python2.7](https://github.com/geoanalytic/docker-geopython/tree/master/python2.7)
+- Python3.4: [bungalowbill/docker-geopython:Python3.4](https://github.com/geoanalytic/docker-geopython/tree/master/python3.4)
+- Python3.5: [bungalowbill/docker-geopython:Python3.5](https://github.com/geoanalytic/docker-geopython/tree/master/python3.5)
+- Python3.6: [bungalowbill/docker-geopython:Python3.6](https://github.com/geoanalytic/docker-geopython/tree/master/python3.6)
