@@ -8,7 +8,7 @@ set -e # fail on any error
 GEOS_VERSION=3.6.1
 PROJ_VERSION=4.9.3
 PROJ_DATUMGRID_VERSION=1.6
-GDAL_VERSION=2.2.0
+GDAL_VERSION=2.3.1
 
 
 # Install libraries
