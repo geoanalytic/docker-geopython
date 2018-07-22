@@ -7,11 +7,7 @@ set -e # fail on any error
 # ===================================================================
 GEOS_VERSION=3.6.1
 PROJ_VERSION=4.9.3
-<<<<<<< HEAD
 PROJ_DATUMGRID_VERSION=1.7
-=======
-PROJ_DATUMGRID_VERSION=1.6
->>>>>>> 7c3c6fd787e9166ea57fab8e8838ede953fa1c82
 GDAL_VERSION=2.3.1
 
 
