@@ -47,7 +47,7 @@ cd /tmp
 wget http://download.osgeo.org/gdal/${GDAL_VERSION}/gdal-${GDAL_VERSION}.tar.gz
 tar xzf gdal-${GDAL_VERSION}.tar.gz
 cd gdal-${GDAL_VERSION}
-./configure --enable-silent-rules --with-static-proj4=/usr/local/lib
+./configure --enable-silent-rules --with-static-proj4=/usr/local/lib --with-python
 make -s
 make -s install
 
